@@ -175,4 +175,4 @@ function valoracion(calificacion) {
 }
 console.log(valoracion(calificacion));
 
-
+*/
